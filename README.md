@@ -4,6 +4,10 @@ Lern Oase - Eine Idee für eine kindgerechte Sammlung spannender und lehrreicher
 
 Lern-Oase 🌱 – Wissensserien für Kids
 
+Link zum Coder - https://github.com/Inormatophilus/DigiDot_1/blob/main/Lern_Oase.html
+
+Link zum gehsoteten code mit git - https://raw.githack.com//Inormatophilus/DigiDot_1/main/Lern_Oase.html
+
 Eine interaktive Single-Page-Application (SPA), die als kuratierte Bibliothek für Lern- und Wissensserien für Kinder dient. Die gesamte Anwendung ist in einer einzigen HTML-Datei gebündelt und nutzt reines (Vanilla) JavaScript für die Funktionalität.
 <br>
 <!-- FÜGE HIER EINEN SCREENSHOT ODER EIN GIF DEINER ANWENDUNG EIN -->
